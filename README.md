@@ -1,7 +1,4 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header" width="100%" />
-
   <p align="center">
     <a href="https://github.com/Lynxx39">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
