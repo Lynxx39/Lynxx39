@@ -3,7 +3,11 @@
   # ✨ Hi there, I'm <a href="https://github.com/Lynxx39">Lynxx39</a> 👋
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=620&lines=Frontend+%26+Full-Stack+Web+Developer+🚀;Deep+Learning+%26+Computer+Vision+Explorer+🧠;Creator+of+belanjaIN%2C+Skin-Daily+%26+Virus-Chronicles+⚡;Crafting+Modern%2C+Fast+%26+Aesthetic+Digital+Products+🎨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Frontend+%26+Full-Stack+Web+Developer;Deep+Learning+%26+Computer+Vision+Explorer;Creator+of+belanjaIN%2C+Skin-Daily+%26+Virus-Chronicles;Crafting+Modern+and+Aesthetic+Digital+Products" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated Pixel Anime Coding Girl" width="100%" style="border-radius: 14px; max-width: 640px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
   </p>
 
   <p align="center">
