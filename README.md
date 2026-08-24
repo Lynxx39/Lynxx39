@@ -206,8 +206,8 @@
     </a>
   </p>
 
-  <p align="center">
-    <img src="https://media.tenor.com/ZL7fgNaWWXMAAAAC/autumn-anime.gif" alt="Autumn Falling Leaves Footer" width="100%" height="70px" style="object-fit: cover; border-radius: 10px; max-width: 720px;" />
-  </p>
+  <br>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Solar Glowing Divider" />
 
 </div>
