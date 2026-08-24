@@ -1,20 +1,14 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header&animation=fadeIn" width="100%" />
-
   <p align="center">
     <a href="https://github.com/Lynxx39">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
     </a>
   </p>
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Falling Autumn Leaves" width="100%" height="60px" style="object-fit: cover; border-radius: 10px; opacity: 0.85;" />
-  </p>
-
-  <table align="center" style="border: none; margin: 16px auto;">
+  <table align="center" style="border: none; margin: 12px auto;">
     <tr>
-      <td align="center" style="border: 2px solid rgba(245, 158, 11, 0.4); border-radius: 20px; padding: 8px; background: #0d1117;">
+      <td align="center" style="border: 2px solid rgba(245, 158, 11, 0.45); border-radius: 20px; padding: 6px; background: #0d1117;">
         <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 14px; max-width: 720px; display: block;" />
       </td>
     </tr>
@@ -212,12 +206,12 @@
     </a>
   </p>
 
+  <p align="center">
+    <img src="https://media.tenor.com/EXk99kAF9hUAAAAM/anime-pixel.gif" alt="Pixel Falling Leaves Footer" width="100%" style="border-radius: 12px; max-width: 600px; border: 1px solid rgba(245, 158, 11, 0.3);" />
+  </p>
+
   <p>
     <i>"Autumn leaves whisper, coffee brews, code flows."</i> 🍂☕✨
   </p>
-
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
