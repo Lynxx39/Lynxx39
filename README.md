@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header&text=🍂%20Lynxx39%20•%20Autumn%20Workspace%20🍁&fontSize=26&fontColor=FEF3C7&fontAlignY=36&animation=fadeIn" width="100%" />
+
   <p align="center">
     <a href="https://github.com/Lynxx39">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
@@ -33,17 +35,17 @@
 
 <table width="100%">
   <tr>
-    <td style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
-      <p>
+    <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
+      <p align="center">
         🍂 <strong>Frontend & Full-Stack Crafter</strong> — Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
       </p>
-      <p>
+      <p align="center">
         🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep neural architectures.
       </p>
-      <p>
+      <p align="center">
         ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and mobile-first responsiveness.
       </p>
-      <p>
+      <p align="center">
         🪵 <i>"Code at the speed of thought — turning ambitious ideas into polished digital reality amidst falling autumn leaves."</i> 🍁
       </p>
     </td>
@@ -56,7 +58,7 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🛍️ <a href="https://github.com/Lynxx39/belanjaIN">belanjaIN</a></h3>
       <p align="center">
         <strong>Modern E-Commerce Web Platform</strong><br>
@@ -73,7 +75,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🧴 <a href="https://github.com/Lynxx39/Skin-Daily">Skin-Daily</a></h3>
       <p align="center">
         <strong>AI & Skincare Routine Assistant</strong><br>
@@ -91,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🧠 <a href="https://github.com/Lynxx39/Pemulihan-Citra-Blur-Menggunakan-Autoencoder-Berbasis-Deep-Learning-Menggunakan-Metode-CAE">CAE Image Restoration</a></h3>
       <p align="center">
         <strong>Deep Learning Image De-Blurring</strong><br>
@@ -107,7 +109,7 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🥛 <a href="https://github.com/Lynxx39/yogurt-logbook-laravel">Yogurt Logbook</a></h3>
       <p align="center">
         <strong>Full-Stack Laravel Web Application</strong><br>
@@ -132,9 +134,9 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
-      <h4>💻 Frontend Development</h4>
-      <p>
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+      <h4 align="center">💻 Frontend Development</h4>
+      <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
@@ -143,9 +145,9 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
-      <h4>⚙️ Backend & Frameworks</h4>
-      <p>
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+      <h4 align="center">⚙️ Backend & Frameworks</h4>
+      <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -154,17 +156,17 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
-      <h4>🧠 Machine Learning & Data Science</h4>
-      <p>
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+      <h4 align="center">🧠 Machine Learning & Data Science</h4>
+      <p align="center">
         <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
         <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
-      <h4>🚀 Tools & Deployment</h4>
-      <p>
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+      <h4 align="center">🚀 Tools & Deployment</h4>
+      <p align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
@@ -198,16 +200,26 @@
 
 <div align="center">
 
-  ### ☕ Let's Connect!
-  
-  <p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Solar Glowing Divider" />
+
+  <br><br>
+
+  <p align="center">
+    <strong>🍂 Let's Connect & Collaborate 🍁</strong><br><br>
     <a href="https://github.com/Lynxx39">
       <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <a href="https://lynxx39.github.io/belanjaIN/">
+      <img src="https://img.shields.io/badge/Live_Demo-belanjaIN-F59E0B?style=flat-square&logo=react&logoColor=white" alt="Live Demo" />
+    </a>
+  </p>
+
+  <p align="center">
+    <i>"Autumn leaves whisper, coffee brews, code flows."</i> 🍂☕✨
   </p>
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="Solar Glowing Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
