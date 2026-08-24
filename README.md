@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header&text=🍂%20Lynxx39%20•%20Autumn%20Workspace%20🍁&fontSize=26&fontColor=FEF3C7&fontAlignY=36&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120" width="100%" />
 
   <p align="center">
     <a href="https://github.com/Lynxx39">
