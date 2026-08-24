@@ -1,15 +1,17 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=130&section=header&text=🍂%20Lynxx39%20•%20Autumn%20Workspace%20🍁&fontSize=26&fontColor=FEF3C7&fontAlignY=38&animation=fadeIn" width="100%" />
+
   <p align="center">
     <a href="https://github.com/Lynxx39">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer;AI+%26+Computer+Vision+Explorer;Building+Modern+Web+Experiences" alt="Lynxx39 Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer;Brewing+Code+%26+Cozy+Autumn+Vibes;Building+Modern+Web+Experiences" alt="Lynxx39 Typing Header" />
     </a>
   </p>
 
   <table align="center" style="border: none; margin: 16px auto;">
     <tr>
-      <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.35); border-radius: 18px; padding: 8px; background: #0d1117;">
-        <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 12px; max-width: 720px; display: block;" />
+      <td align="center" style="border: 2px solid rgba(245, 158, 11, 0.4); border-radius: 20px; padding: 8px; background: #0d1117;">
+        <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 14px; max-width: 720px; display: block;" />
       </td>
     </tr>
   </table>
@@ -22,28 +24,29 @@
       <img src="https://img.shields.io/github/stars/Lynxx39?label=Total%20Stars&style=flat-square&color=F59E0B&logo=star&logoColor=white" alt="Stars" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=Lynxx39&label=Profile%20Views&color=D97706&style=flat-square" alt="Views" />
+    <img src="https://img.shields.io/badge/Vibe-Cozy%20Autumn%20🍂-78350F?style=flat-square" alt="Vibe" />
   </p>
 
 </div>
 
 ---
 
-### 🍂 About Me
+### 🍁 About Me
 
 <table width="100%">
   <tr>
-    <td style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+    <td style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
       <p>
-        🍁 <strong>Frontend & Full-Stack Developer</strong> obsessed with crafting fast, accessible, and high-aesthetic web apps using <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
+        🍂 <strong>Frontend & Full-Stack Crafter</strong> — Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
       </p>
       <p>
-        🧠 <strong>AI & Computer Vision Researcher</strong> exploring deep neural architectures, specifically <strong>Convolutional Autoencoders (CAE)</strong> for high-fidelity image restoration.
+        🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep learning architectures & Convolutional Autoencoders (CAE) for high-fidelity image restoration.
       </p>
       <p>
-        ☕ <strong>Cozy Workflow</strong>: Passionate about clean design systems, tactile micro-interactions, dark mode aesthetics, and mobile-first responsiveness.
+        ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and mobile-first responsiveness.
       </p>
       <p>
-        <i>"Transforming complex logic and creative ideas into seamless, beautiful experiences."</i>
+        🪵 <i>"Code at the speed of thought — turning ambitious ideas into polished digital reality amidst falling autumn leaves."</i> 🍁
       </p>
     </td>
   </tr>
@@ -55,11 +58,11 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
+    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🛍️ <a href="https://github.com/Lynxx39/belanjaIN">belanjaIN</a></h3>
       <p align="center">
         <strong>Modern E-Commerce Web Platform</strong><br>
-        Feature-rich shopping experience with real-time flash sales, custom 3D iconography, promo vouchers, and mobile-first navigation.
+        Aesthetic e-commerce application powered by React & Vite featuring real-time flash sales, custom 3D iconography, promo vouchers, and mobile-first navigation.
       </p>
       <p align="center">
         <a href="https://lynxx39.github.io/belanjaIN/"><strong>🌐 Live Demo</strong></a> • 
@@ -72,7 +75,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
+    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🧴 <a href="https://github.com/Lynxx39/Skin-Daily">Skin-Daily</a></h3>
       <p align="center">
         <strong>AI & Skincare Routine Assistant</strong><br>
@@ -90,7 +93,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
+    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🧠 <a href="https://github.com/Lynxx39/Pemulihan-Citra-Blur-Menggunakan-Autoencoder-Berbasis-Deep-Learning-Menggunakan-Metode-CAE">CAE Image Restoration</a></h3>
       <p align="center">
         <strong>Deep Learning Image De-Blurring</strong><br>
@@ -106,7 +109,7 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 16px; background: #0d1117;">
+    <td width="50%" valign="top" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🥛 <a href="https://github.com/Lynxx39/yogurt-logbook-laravel">Yogurt Logbook</a></h3>
       <p align="center">
         <strong>Full-Stack Laravel Web Application</strong><br>
@@ -175,12 +178,20 @@
 
 ---
 
-### 📊 GitHub Activity
+### 🍂 GitHub Activity & Analytics
 
 <table width="100%">
   <tr>
-    <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 12px; background: #0d1117;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lynxx39&theme=nord&bg_color=0d1117&color=F59E0B&line=EA580C&point=D97706&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+    <td width="50%" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 14px; background: #0d1117;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lynxx39&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 14px; background: #0d1117;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 14px; background: #0d1117;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lynxx39&theme=nord&bg_color=0D1117&color=F59E0B&line=EA580C&point=D97706&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
     </td>
   </tr>
 </table>
@@ -195,6 +206,10 @@
     <a href="https://github.com/Lynxx39">
       <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
+  </p>
+
+  <p>
+    <i>"Autumn leaves whisper, coffee brews, code flows."</i> 🍂☕✨
   </p>
 
   <br>
