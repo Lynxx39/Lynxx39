@@ -31,21 +31,21 @@
 
 ---
 
-<h3 align="center">🍁 About Me</h3>
+### 🍁 About Me
 
 <table width="100%">
   <tr>
-    <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
-      <p align="center">
+    <td style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
+      <p>
         🍂 <strong>Frontend & Full-Stack Crafter</strong> — Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
       </p>
-      <p align="center">
+      <p>
         🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep neural architectures.
       </p>
-      <p align="center">
+      <p>
         ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and mobile-first responsiveness.
       </p>
-      <p align="center">
+      <p>
         🪵 <i>"Code at the speed of thought — turning ambitious ideas into polished digital reality amidst falling autumn leaves."</i> 🍁
       </p>
     </td>
@@ -54,7 +54,7 @@
 
 ---
 
-<h3 align="center">🌟 Featured Projects</h3>
+### 🌟 Featured Projects
 
 <table width="100%">
   <tr>
@@ -130,13 +130,13 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Toolbox</h3>
+### 🛠️ Tech Stack & Toolbox
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h4 align="center">💻 Frontend Development</h4>
+    <td style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 22px; background: #0d1117;">
       <p align="center">
+        <strong>💻 Frontend Development</strong><br>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
@@ -144,29 +144,24 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
-    </td>
-    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h4 align="center">⚙️ Backend & Frameworks</h4>
+      <br>
       <p align="center">
+        <strong>⚙️ Backend & Frameworks</strong><br>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h4 align="center">🧠 Machine Learning & Data Science</h4>
+      <br>
       <p align="center">
+        <strong>🧠 Machine Learning & Data Science</strong><br>
         <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning" />
         <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
       </p>
-    </td>
-    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h4 align="center">🚀 Tools & Deployment</h4>
+      <br>
       <p align="center">
+        <strong>🚀 Tools & Deployment</strong><br>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
@@ -178,7 +173,7 @@
 
 ---
 
-<h3 align="center">🍂 GitHub Activity & Analytics</h3>
+### 🍂 GitHub Activity & Analytics
 
 <table width="100%">
   <tr>
