@@ -1,6 +1,8 @@
 <div align="center">
 
   # ✨ Hi there, I'm <a href="https://github.com/Lynxx39">Lynxx39</a> 👋
+  
+
 
   <p align="center">
     <img src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif" alt="Aesthetic Pixel Anime Coding Girl" width="100%" style="border-radius: 14px; max-width: 680px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
