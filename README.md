@@ -161,15 +161,15 @@ const developer = {
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lynxx39&show_icons=true&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lynxx39&show_icons=true&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lynxx39&theme=radical&background=1C140E&ring=D97706&fire=EA580C&currStreakLabel=F59E0B&sideLabels=FEF3C7&sideNums=FEF3C7&dates=D97706&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lynxx39&theme=nord&bg_color=1C140E&color=F59E0B&line=EA580C&point=D97706&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
