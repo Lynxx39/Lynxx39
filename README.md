@@ -2,7 +2,7 @@
 
   <p align="center">
     <a href="https://github.com/Lynxx39">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Lynxx39+🍂;Frontend+%26+Full-Stack+Developer+🍁;Coding+with+Cozy+Autumn+Vibes+☕;Turning+Ideas+Into+Digital+Reality+✨" alt="Autumn Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer;Coding+with+Cozy+Autumn+Vibes;Turning+Ideas+Into+Digital+Reality" alt="Autumn Typing Header" />
     </a>
   </p>
 
