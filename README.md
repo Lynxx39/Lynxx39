@@ -2,12 +2,18 @@
 
   <p align="center">
     <a href="https://github.com/Lynxx39">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer;Coding+with+Cozy+Autumn+Vibes;Turning+Ideas+Into+Digital+Reality" alt="Autumn Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Autumn Typing Header" />
     </a>
   </p>
 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 16px; max-width: 720px; box-shadow: 0 12px 35px rgba(41,24,14,0.7);" />
+    <table align="center" style="border: none; margin: 0 auto;">
+      <tr>
+        <td align="center" style="border: 2px solid #D97706; border-radius: 20px; padding: 6px; background: #1C140E;">
+          <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 14px; max-width: 720px; display: block;" />
+        </td>
+      </tr>
+    </table>
   </p>
 
   <p align="center">
@@ -155,15 +161,15 @@ const developer = {
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx39&show_icons=true&hide_border=true&bg_color=1C140E&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lynxx39&show_icons=true&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynxx39&hide_border=true&background=1C140E&ring=D97706&fire=EA580C&currStreakLabel=F59E0B&sideLabels=FEF3C7&sideNums=FEF3C7&dates=D97706" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Lynxx39&theme=radical&background=1C140E&ring=D97706&fire=EA580C&currStreakLabel=F59E0B&sideLabels=FEF3C7&sideNums=FEF3C7&dates=D97706&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
