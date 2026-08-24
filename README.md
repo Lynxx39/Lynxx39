@@ -1,10 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=130&section=header&text=🍂%20Lynxx39%20•%20Autumn%20Workspace%20🍁&fontSize=26&fontColor=FEF3C7&fontAlignY=38&animation=fadeIn" width="100%" />
-
   <p align="center">
     <a href="https://github.com/Lynxx39">
-      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer;Brewing+Code+%26+Cozy+Autumn+Vibes;Building+Modern+Web+Experiences" alt="Lynxx39 Typing Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
     </a>
   </p>
 
@@ -214,6 +212,6 @@
 
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
