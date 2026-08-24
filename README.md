@@ -1,47 +1,50 @@
 <div align="center">
 
-  # ✨ Hi there, I'm <a href="https://github.com/Lynxx39">Lynxx39</a> 👋
-  
-
+  <p align="center">
+    <a href="https://github.com/Lynxx39">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Lynxx39+🍂;Frontend+%26+Full-Stack+Developer+🍁;Coding+with+Cozy+Autumn+Vibes+☕;Turning+Ideas+Into+Digital+Reality+✨" alt="Autumn Typing Header" />
+    </a>
+  </p>
 
   <p align="center">
-    <img src="https://i.pinimg.com/originals/86/0a/45/860a4575d87bebaa1b1a18490f3e96ef.gif" alt="Aesthetic Pixel Anime Coding Girl" width="100%" style="border-radius: 14px; max-width: 680px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+    <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" alt="Autumn Fall Pixel Art" width="100%" style="border-radius: 16px; max-width: 720px; box-shadow: 0 12px 35px rgba(41,24,14,0.7);" />
   </p>
 
   <p align="center">
     <a href="https://github.com/Lynxx39">
-      <img src="https://img.shields.io/github/followers/Lynxx39?label=Followers&style=for-the-badge&color=FF4B2B&logo=github&logoColor=white" alt="Followers" />
+      <img src="https://img.shields.io/github/followers/Lynxx39?label=Followers&style=for-the-badge&color=D97706&logo=github&logoColor=white" alt="Followers" />
     </a>
     <a href="https://github.com/Lynxx39?tab=repositories">
-      <img src="https://img.shields.io/github/stars/Lynxx39?label=Stars&style=for-the-badge&color=F59E0B&logo=star&logoColor=white" alt="Total Stars" />
+      <img src="https://img.shields.io/github/stars/Lynxx39?label=Stars&style=for-the-badge&color=B45309&logo=star&logoColor=white" alt="Total Stars" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Lynxx39&label=Profile%20Views&color=FF4B2B&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Lynxx39&label=Profile%20Views&color=EA580C&style=for-the-badge" alt="Profile Views" />
   </p>
 
 </div>
 
 ---
 
-### 💫 About Me
+### 🍂 About Me
 
 ```javascript
 const developer = {
   name: "Lynxx39",
   title: "Frontend Developer & AI / Computer Vision Enthusiast",
+  vibe: "Cozy Autumn Nights 🍁, Coffee ☕ & Clean Code 💻",
   skills: {
     frontend: ["React.js", "Vite", "JavaScript (ES6+)", "Tailwind CSS", "HTML5/CSS3"],
     backend: ["PHP", "Laravel", "Python", "REST APIs"],
     ai_and_ml: ["Convolutional Autoencoder (CAE)", "Deep Learning", "Image Restoration"]
   },
-  currentFocus: "Building high-performance modern web apps & exploring computer vision models",
+  currentFocus: "Crafting high-performance modern web apps & exploring computer vision models",
   philosophy: "Transforming complex logic and creative ideas into seamless, beautiful experiences."
 };
 ```
 
-- 🚀 **Full-Stack & Frontend Crafter**: Building modern, reactive web apps with React, Vite, and Laravel.
+- 🍁 **Full-Stack & Frontend Crafter**: Building modern, reactive web apps with React, Vite, and Laravel.
 - 🧠 **AI & Deep Learning Enthusiast**: Experienced in image restoration & autoencoder architectures (CAE).
 - 🎮 **Creative Web Projects**: Developing games, interactive simulators, and e-commerce platforms.
-- 🎨 **UI/UX Focused**: Passionate about high-contrast dark aesthetics, smooth micro-interactions, and mobile-first responsiveness.
+- 🎨 **Cozy UI/UX Aesthetics**: Passionate about warm autumn tones, dark mode aesthetics, and responsive craftsmanship.
 
 ---
 
@@ -93,16 +96,16 @@ const developer = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 <a href="https://github.com/Lynxx39/Virus-Chronicles">Virus-Chronicles</a></h3>
+      <h3 align="center">🥛 <a href="https://github.com/Lynxx39/yogurt-logbook-laravel">Yogurt Logbook</a></h3>
       <p align="center">
-        <strong>Interactive Web Game & Simulation</strong><br>
-        Browser-based interactive simulation game with custom mechanics, dynamic gameplay flow, and asset management.
+        <strong>Full-Stack Laravel Web Application</strong><br>
+        Digital production logbook and record-keeping system built with PHP, Laravel, and Blade templating for batch management and data tracking.
       </p>
       <p align="center">
-        <a href="https://github.com/Lynxx39/Virus-Chronicles"><strong>📦 Repository</strong></a>
+        <a href="https://github.com/Lynxx39/yogurt-logbook-laravel"><strong>📦 Repository</strong></a>
       </p>
       <p align="center">
-        <code>JavaScript</code> <code>Game Dev</code> <code>Web Audio/Canvas</code>
+        <code>PHP</code> <code>Laravel</code> <code>Blade</code> <code>MySQL</code>
       </p>
     </td>
   </tr>
@@ -152,22 +155,22 @@ const developer = {
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx39&show_icons=true&theme=radical&hide_border=true&bg_color=0B0F17&title_color=FF4B2B&icon_color=F59E0B&text_color=F9FAFB" alt="Lynxx39 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx39&show_icons=true&hide_border=true&bg_color=1C140E&title_color=F59E0B&icon_color=EA580C&text_color=FEF3C7" alt="Lynxx39 GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=0B0F17&title_color=FF4B2B&text_color=F9FAFB" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx39&layout=compact&theme=radical&hide_border=true&bg_color=1C140E&title_color=F59E0B&text_color=FEF3C7" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynxx39&theme=radical&hide_border=true&background=0B0F17&ring=FF4B2B&fire=FF4B2B&currStreakLabel=FF4B2B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lynxx39&hide_border=true&background=1C140E&ring=D97706&fire=EA580C&currStreakLabel=F59E0B&sideLabels=FEF3C7&sideNums=FEF3C7&dates=D97706" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
 
-  ### 💬 Let's Connect!
+  ### ☕ Let's Connect!
   
   <p>
     <a href="https://github.com/Lynxx39">
@@ -177,6 +180,6 @@ const developer = {
 
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
