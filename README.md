@@ -196,25 +196,18 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 24px; background: #0d1117;">
-      <h3>☕ Let's Connect & Collaborate</h3>
-      <p>
-        Always open to discussing new projects, creative ideas, or opportunities in Full-Stack & AI!
-      </p>
-      <p>
-        <a href="https://github.com/Lynxx39">
-          <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-        <a href="https://lynxx39.github.io/belanjaIN/">
-          <img src="https://img.shields.io/badge/Live_Demo-belanjaIN-F59E0B?style=flat-square&logo=react&logoColor=white" alt="Live Demo" />
-        </a>
-      </p>
-      <br>
-      <p>
-        <small><i>🍁 Crafted with cozy autumn vibes, hot coffee & clean code</i> 🍂</small>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  ### ☕ Let's Connect!
+  
+  <p>
+    <a href="https://github.com/Lynxx39">
+      <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://media.tenor.com/ZL7fgNaWWXMAAAAC/autumn-anime.gif" alt="Autumn Falling Leaves Footer" width="100%" height="70px" style="object-fit: cover; border-radius: 10px; max-width: 720px;" />
+  </p>
+
+</div>
