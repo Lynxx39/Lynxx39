@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header" width="100%" />
 
   <p align="center">
     <a href="https://github.com/Lynxx39">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🍁 About Me
+<h3 align="center">🍁 About Me</h3>
 
 <table width="100%">
   <tr>
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌟 Featured Projects
+<h3 align="center">🌟 Featured Projects</h3>
 
 <table width="100%">
   <tr>
@@ -130,7 +130,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+<h3 align="center">🛠️ Tech Stack & Toolbox</h3>
 
 <table width="100%">
   <tr>
@@ -178,7 +178,7 @@
 
 ---
 
-### 🍂 GitHub Activity & Analytics
+<h3 align="center">🍂 GitHub Activity & Analytics</h3>
 
 <table width="100%">
   <tr>
@@ -208,9 +208,6 @@
     <strong>🍂 Let's Connect & Collaborate 🍁</strong><br><br>
     <a href="https://github.com/Lynxx39">
       <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://lynxx39.github.io/belanjaIN/">
-      <img src="https://img.shields.io/badge/Live_Demo-belanjaIN-F59E0B?style=flat-square&logo=react&logoColor=white" alt="Live Demo" />
     </a>
   </p>
 
