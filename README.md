@@ -196,22 +196,25 @@
 
 ---
 
-<div align="center">
-
-  ### ☕ Let's Connect!
-  
-  <p>
-    <a href="https://github.com/Lynxx39">
-      <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://media.tenor.com/EXk99kAF9hUAAAAM/anime-pixel.gif" alt="Pixel Falling Leaves Footer" width="100%" style="border-radius: 12px; max-width: 600px; border: 1px solid rgba(245, 158, 11, 0.3);" />
-  </p>
-
-  <p>
-    <i>"Autumn leaves whisper, coffee brews, code flows."</i> 🍂☕✨
-  </p>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 24px; background: #0d1117;">
+      <h3>☕ Let's Connect & Collaborate</h3>
+      <p>
+        Always open to discussing new projects, creative ideas, or opportunities in Full-Stack & AI!
+      </p>
+      <p>
+        <a href="https://github.com/Lynxx39">
+          <img src="https://img.shields.io/badge/GitHub-Lynxx39-EA580C?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="https://lynxx39.github.io/belanjaIN/">
+          <img src="https://img.shields.io/badge/Live_Demo-belanjaIN-F59E0B?style=flat-square&logo=react&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <br>
+      <p>
+        <small><i>🍁 Crafted with cozy autumn vibes, hot coffee & clean code</i> 🍂</small>
+      </p>
+    </td>
+  </tr>
+</table>
