@@ -1,9 +1,15 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header&animation=fadeIn" width="100%" />
+
   <p align="center">
     <a href="https://github.com/Lynxx39">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
     </a>
+  </p>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Falling Autumn Leaves" width="100%" height="60px" style="object-fit: cover; border-radius: 10px; opacity: 0.85;" />
   </p>
 
   <table align="center" style="border: none; margin: 16px auto;">
@@ -38,7 +44,7 @@
         🍂 <strong>Frontend & Full-Stack Crafter</strong> — Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
       </p>
       <p>
-        🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep learning architectures & Convolutional Autoencoders (CAE) for high-fidelity image restoration.
+        🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep neural architectures.
       </p>
       <p>
         ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and mobile-first responsiveness.
@@ -212,6 +218,6 @@
 
   <br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
