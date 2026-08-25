@@ -175,7 +175,7 @@
 
 ---
 
-### 🍂 GitHub Activity & Analytics
+### 📊 GitHub Activity & Analytics
 
 <table width="100%">
   <tr>
@@ -188,10 +188,11 @@
   </tr>
   <tr>
     <td colspan="2" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 14px; background: #0d1117;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lynxx39&theme=nord&bg_color=0D1117&color=F59E0B&line=EA580C&point=D97706&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+      <img src="https://ghchart.rshah.org/F59E0B/Lynxx39" alt="Lynxx39 GitHub Contribution Graph" width="100%" />
     </td>
   </tr>
 </table>
+
 
 ---
 
