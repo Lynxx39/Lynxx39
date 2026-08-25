@@ -1,4 +1,7 @@
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=120&section=header" width="100%" />
+
   <p align="center">
     <a href="https://github.com/Lynxx39">
       <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=2600&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I'm+Lynxx39;Frontend+%26+Full-Stack+Developer" alt="Lynxx39 Typing Header" />
@@ -94,16 +97,16 @@
       <h3 align="center">🎬 <a href="https://github.com/Lynxx39/autoclipper">AI Viral AutoClipper</a></h3>
       <p align="center">
         <strong>Autonomous Short-Form Video Generator & Multi-Platform Scheduler</strong><br>
-        AI-driven pipeline converting livestreams into viral 9:16 Shorts & TikToks with smart face-tracking, animated dynamic subtitles, and automated multi-platform scheduling.
+        AI pipeline converting livestreams into viral 9:16 Shorts & TikToks with smart face-tracking, animated dynamic subtitles, and automated scheduling.
       </p>
       <p align="center">
         <a href="https://github.com/Lynxx39/autoclipper"><strong>📦 Repository</strong></a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/CAE-D97706?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Video-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/TikTok_Automation-000000?style=flat-square&logo=tiktok&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
@@ -175,7 +178,7 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🍂 GitHub Activity & Analytics
 
 <table width="100%">
   <tr>
@@ -192,7 +195,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -218,3 +220,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,50:EA580C,100:1C140E&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
+
