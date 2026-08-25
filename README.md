@@ -91,13 +91,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h3 align="center">🧠 <a href="https://github.com/Lynxx39/Pemulihan-Citra-Blur-Menggunakan-Autoencoder-Berbasis-Deep-Learning-Menggunakan-Metode-CAE">CAE Image Restoration</a></h3>
+      <h3 align="center">🎬 <a href="https://github.com/Lynxx39/autoclipper">AI Viral AutoClipper</a></h3>
       <p align="center">
-        <strong>Deep Learning Image De-Blurring</strong><br>
-        Restoring blurred images using Convolutional Autoencoder (CAE) neural networks for high-fidelity image recovery.
+        <strong>Autonomous Short-Form Video Generator & Multi-Platform Scheduler</strong><br>
+        AI-driven pipeline converting livestreams into viral 9:16 Shorts & TikToks with smart face-tracking, animated dynamic subtitles, and automated multi-platform scheduling.
       </p>
       <p align="center">
-        <a href="https://github.com/Lynxx39/Pemulihan-Citra-Blur-Menggunakan-Autoencoder-Berbasis-Deep-Learning-Menggunakan-Metode-CAE"><strong>📦 Repository</strong></a>
+        <a href="https://github.com/Lynxx39/autoclipper"><strong>📦 Repository</strong></a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
