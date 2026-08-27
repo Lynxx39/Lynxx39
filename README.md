@@ -56,11 +56,12 @@
 
 <table width="100%">
   <tr>
+    <!-- belanjaIN -->
     <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🛍️ <a href="https://github.com/Lynxx39/belanjaIN">belanjaIN</a></h3>
       <p align="center">
         <strong>Modern E-Commerce Web Platform</strong><br>
-        Aesthetic e-commerce application powered by React & Vite featuring real-time flash sales, custom 3D iconography, promo vouchers, and mobile-first navigation.
+        Aesthetic e-commerce web application powered by React & Vite featuring real-time flash sales, custom 3D iconography, promo vouchers, and mobile-first navigation.
       </p>
       <p align="center">
         <a href="https://lynxx39.github.io/belanjaIN/"><strong>🌐 Live Demo</strong></a> • 
@@ -69,28 +70,49 @@
       <p align="center">
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
+    <!-- jagoING -->
     <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h3 align="center">🧴 <a href="https://github.com/Lynxx39/Skin-Daily">Skin-Daily</a></h3>
+      <h3 align="center">⚡ <a href="https://github.com/Lynxx39/jagoING">jagoING</a></h3>
       <p align="center">
-        <strong>AI & Skincare Routine Assistant</strong><br>
-        Web-based skincare tracking and intelligence application deployed on Vercel, designed for tailored skincare analysis and logs.
+        <strong>Interactive English Learning Platform (SD • SMP • SMA)</strong><br>
+        Gamified English learning suite with Neo-Brutalism aesthetics, SuperMemo SM-2 flashcard SRS, Listening Lab, Mock Exams, and Framer Motion spring physics.
       </p>
       <p align="center">
-        <a href="https://skin-daily.vercel.app"><strong>🌐 Live App</strong></a> • 
-        <a href="https://github.com/Lynxx39/Skin-Daily"><strong>📦 Repository</strong></a>
+        <a href="https://lynxx39.github.io/jagoING/"><strong>🌐 Live Demo</strong></a> • 
+        <a href="https://github.com/Lynxx39/jagoING"><strong>📦 Repository</strong></a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_App-EA580C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-FF5E8E?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo_Brutalism-FFE600?style=flat-square&logoColor=black" />
       </p>
     </td>
   </tr>
+
   <tr>
+    <!-- ngenyangIN -->
+    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
+      <h3 align="center">🍽️ <a href="https://github.com/Lynxx39/ngenyangIN">ngenyangIN</a></h3>
+      <p align="center">
+        <strong>Digital Restaurant Table QR & Kitchen Order System</strong><br>
+        Full-stack food ordering platform built with Laravel & Tailwind CSS featuring dynamic QR table scans, real-time kitchen tracking, and digital receipt generation.
+      </p>
+      <p align="center">
+        <a href="https://github.com/Lynxx39/ngenyangIN"><strong>📦 Repository</strong></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+    </td>
+    <!-- autoclipper -->
     <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
       <h3 align="center">🎬 <a href="https://github.com/Lynxx39/autoclipper">AI Viral AutoClipper</a></h3>
       <p align="center">
@@ -107,25 +129,8 @@
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top" align="center" style="border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 16px; padding: 18px; background: #0d1117;">
-      <h3 align="center">🥛 <a href="https://github.com/Lynxx39/yogurt-logbook-laravel">Yogurt Logbook</a></h3>
-      <p align="center">
-        <strong>Full-Stack Laravel Web Application</strong><br>
-        Digital production logbook and record-keeping system built with PHP, Laravel, and Blade templating for batch management and data tracking.
-      </p>
-      <p align="center">
-        <a href="https://github.com/Lynxx39/yogurt-logbook-laravel"><strong>📦 Repository</strong></a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-    </td>
   </tr>
 </table>
-
 ---
 
 ### 🛠️ Tech Stack & Toolbox
