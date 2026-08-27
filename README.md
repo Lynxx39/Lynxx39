@@ -34,20 +34,21 @@
   <tr>
     <td width="100%" style="border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 16px; padding: 20px; background: #0d1117;">
       <p>
-        🍂 <strong>Frontend & Full-Stack Crafter</strong> — Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
+        🍂 <strong>VibeCoder & Full-Stack Crafter</strong> — Flow-state coding at the speed of thought. Obsessed with building lightning-fast, reactive, and aesthetic web applications with <code>React</code>, <code>Vite</code>, and <code>Laravel</code>.
       </p>
       <p>
-        🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep neural architectures.
+        🧠 <strong>AI & Computer Vision Researcher</strong> — Exploring deep neural architectures & intelligent agentic systems.
       </p>
       <p>
-        ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and mobile-first responsiveness.
+        ☕ <strong>Cozy Autumn Workflow</strong> — Fueled by hot coffee, golden leaves, clean design systems, tactile micro-interactions, and pure vibe coding.
       </p>
       <p>
-        🪵 <i>"Code at the speed of thought — turning ambitious ideas into polished digital reality amidst falling autumn leaves."</i> 🍁
+        🪵 <i>"Vibe-coding at the speed of thought — turning ambitious ideas into polished digital reality amidst falling autumn leaves."</i> 🍁
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
